@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.heroText {
+  background: linear-gradient(225deg, #FF000F 0%, #D8E0FF 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+
+}
+
+.heroseccond {
+  background: linear-gradient(0deg, #57AEFF, #57AEFF);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.blurBg {
+  background: rgba(255, 255, 255, 0.20);
+}

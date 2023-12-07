@@ -1,0 +1,28 @@
+<svg width="69" height="1333" viewBox="0 0 69 1333" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.1">
+<rect x="37.3906" y="0.5" width="1206" height="5.86726" transform="rotate(90 37.3906 0.5)" fill="url(#paint0_linear_331_96)"/>
+<rect x="37.3906" y="0.5" width="1206" height="5.86726" transform="rotate(90 37.3906 0.5)" stroke="black"/>
+<rect x="37.3906" y="0.5" width="1206" height="5.86726" transform="rotate(90 37.3906 0.5)" stroke="black" stroke-opacity="0.2"/>
+</g>
+<line x1="34.5986" y1="1.72021" x2="34.5986" y2="135.913" stroke="#FF4581" stroke-width="2" stroke-linecap="round" stroke-dasharray="1 5"/>
+<ellipse cx="28.4808" cy="1222.25" rx="13.7552" ry="13.7345" fill="#FF4581" fill-opacity="0.1"/>
+<ellipse cx="34.873" cy="1220.48" rx="15" ry="15.5" fill="#79CBFF"/>
+<ellipse cx="34.7256" cy="1231.48" rx="14" ry="15.5" fill="#79CBFF"/>
+<ellipse cx="34.3432" cy="1254.26" rx="4.27877" ry="12.714" transform="rotate(90.0062 34.3432 1254.26)" fill="#79CBFF"/>
+<ellipse cx="14.7982" cy="1210.09" rx="8.44258" ry="12.714" transform="rotate(137.739 14.7982 1210.09)" fill="#79CBFF"/>
+<ellipse cx="53.7848" cy="1209.1" rx="8.44258" ry="12.714" transform="rotate(-137.949 53.7848 1209.1)" fill="#79CBFF"/>
+<ellipse cx="34.8729" cy="1211.24" rx="10.7643" ry="19.2391" transform="rotate(-88.5586 34.8729 1211.24)" fill="#79CBFF"/>
+<path d="M16.8066 1201.44H53.299C53.299 1201.44 50.2582 1247.22 35.0529 1247.22C27.6251 1247.22 23.1001 1236.29 20.4144 1225.12C17.6022 1213.41 16.8066 1201.44 16.8066 1201.44Z" stroke="black" stroke-width="5.17972" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M53.2993 1201.44C53.2993 1201.44 56.4803 1198.04 59.124 1197.99C64.3037 1197.87 65.2613 1201.44 65.2613 1201.44C66.2751 1203.54 67.0859 1209.02 62.2205 1214.07C57.3546 1219.12 51.908 1223.54 49.6914 1225.12" stroke="black" stroke-width="5.17972" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.8062 1201.44C16.8062 1201.44 13.4919 1198.01 10.7793 1197.98C5.59962 1197.94 4.64202 1201.44 4.64202 1201.44C3.62832 1203.54 2.81738 1209.02 7.68307 1214.07C12.5487 1219.12 18.1977 1223.54 20.4139 1225.12" stroke="black" stroke-width="5.17972" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22.8887 1256.69C22.8887 1250.37 35.0527 1247.22 35.0527 1247.22C35.0527 1247.22 47.2171 1250.37 47.2171 1256.69H22.8887Z" stroke="black" stroke-width="5.17972" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="34.5703" cy="1288" r="6" fill="#D9D9D9"/>
+<circle cx="34.5703" cy="1307" r="6" fill="#ADC3D3"/>
+<circle cx="34.5703" cy="1327" r="6" fill="#2E94DE"/>
+<defs>
+<linearGradient id="paint0_linear_331_96" x1="1387.8" y1="3.13009" x2="1387.61" y2="-12.1661" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF4581"/>
+<stop offset="1" stop-color="#4388DD"/>
+</linearGradient>
+</defs>
+</svg>
